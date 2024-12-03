@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 vinnyvynce/ps4-pkg-sender:latest
+eosphorosai/dbgpt:latest
