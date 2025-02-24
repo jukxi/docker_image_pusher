@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #vinnyvynce/ps4-pkg-sender:latest
 #eosphorosai/dbgpt:latest
-tugraph/tugraph-runtime-centos8:latest
+# tugraph/tugraph-runtime-centos8:latest
+ollama/ollama
