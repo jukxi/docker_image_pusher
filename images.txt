@@ -8,4 +8,5 @@
 #eosphorosai/dbgpt:latest
 # tugraph/tugraph-runtime-centos8:latest
 # ollama/ollama
-ghcr.io/open-webui/open-webui:main
+# ghcr.io/open-webui/open-webui:main
+docker/dockerfile:1.4
