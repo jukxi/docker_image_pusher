@@ -13,4 +13,4 @@
 # vllm/vllm-openai
 # 
 # lmsysorg/sglang:latest
-docker pull iyuucn/iyuuplus
+iyuucn/iyuuplus:latest
