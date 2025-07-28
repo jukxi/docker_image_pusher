@@ -12,5 +12,5 @@
 # docker/dockerfile:1.4
 # vllm/vllm-openai
 # 
-# lmsysorg/sglang:latest
-iyuucn/iyuuplus:latest
+lmsysorg/sglang:latest
+# iyuucn/iyuuplus:latest
