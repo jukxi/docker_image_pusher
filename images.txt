@@ -14,3 +14,4 @@
 # 
 lmsysorg/sglang:latest
 # iyuucn/iyuuplus:latest
+docker.io/tencentos/tencentos4-deepseek3fs-build:latest
