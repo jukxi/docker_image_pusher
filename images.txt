@@ -12,6 +12,6 @@
 # docker/dockerfile:1.4
 # vllm/vllm-openai
 # 
-lmsysorg/sglang:latest
+# lmsysorg/sglang:latest
 # iyuucn/iyuuplus:latest
-docker.io/tencentos/tencentos4-deepseek3fs-build:latest
+# docker.io/tencentos/tencentos4-deepseek3fs-build:latest
