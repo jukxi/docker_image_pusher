@@ -14,4 +14,5 @@
 # lmsysorg/sglang:latest
 # iyuucn/iyuuplus:latest
 # docker.io/tencentos/tencentos4-deepseek3fs-build:latest
-releases-docker.jfrog.io/jfrog/artifactory-oss:latest
+# releases-docker.jfrog.io/jfrog/artifactory-oss:latest
+gcc:4.7
